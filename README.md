@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barekpk4&label=Profile%20views&color=0e75b6&style=flat" alt="barekpk4" /> </p>
 - ⚡ I'm currently working at Software Arena Limited.
 
-- 🌱 I’m currently learning **ASP.Net Core Web Api**
+- 🌱 I’m currently learning **ASP.Net Core & Angular**
 
-- 💬 Ask me about **Asp.Net Core & Angular**
+- 💬 Ask me about **Asp.Net Core Angular**
 
 - 📫 How to reach me **barekcse35@gmail.com**
 
