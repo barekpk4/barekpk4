@@ -1,21 +1,20 @@
 
+<img width="1964" height="621" alt="BANNER_iMG" src="https://github.com/user-attachments/assets/62c5ba3a-63a6-4e88-96a5-84c67e987e68" />
+<h1 align="center">Hi 👋, I'm Barek Pramanik A dedicated software engineer with over 2 years of hands-on experience in full-stack development, particularly focused on ERP systems. Passionate about crafting robust, scalable, and user-centric applications using technologies like ASP.NET Core, Angular, and SQL Server. Known for thriving in collaborative environments, continuously learning, and delivering high-quality software solutions that drive business success.</h1>
 
-<img  src="https://www.infopulse.com/uploads/media/tutorial-creating-asp-net-core-angular-4-application-with-connection-to-mongodb-in-ubuntu-1920x528.webp">
-<h1 align="center">Hi 👋, I'm Barek Pramanik</h1>
 
-
-<h3 align="center">A passionate frontend & Backend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barekpk4&label=Profile%20views&color=0e75b6&style=flat" alt="barekpk4" /> </p>
+- ⚡ I'm currently working at Software Arena Limited.
 
 - 🌱 I’m currently learning **ASP.Net Core Web Api**
 
-- 💬 Ask me about **Asp.Net Web Api, Angular and Javascript**
+- 💬 Ask me about **Asp.Net Core & Angular**
 
-- 📫 How to reach me **barekpk4@gmail.com**
+- 📫 How to reach me **barekcse35@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
