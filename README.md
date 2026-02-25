@@ -1,6 +1,7 @@
 
-<img width="1964" height="621" alt="BANNER_iMG" src="https://github.com/user-attachments/assets/62c5ba3a-63a6-4e88-96a5-84c67e987e68" />
-<h1 align="center">Hi 👋, I'm Barek Pramanik A dedicated software engineer with over 2 years of hands-on experience in full-stack development, particularly focused on ERP systems. Passionate about crafting robust, scalable, and user-centric applications using technologies like ASP.NET Core, Angular, and SQL Server. Known for thriving in collaborative environments, continuously learning, and delivering high-quality software solutions that drive business success.</h1>
+<img width="1584" height="396" alt="White and Blue Minimalist Freelance Web Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/2b28f51c-019c-4792-8ef0-b79a392cdf31" />
+
+<h5 align="center">Hi 👋, I'm Barek Pramanik A dedicated software engineer with over 2 years of hands-on experience in full-stack development, particularly focused on ERP systems. Passionate about crafting robust, scalable, and user-centric applications using technologies like ASP.NET Core, Angular, and SQL Server. Known for thriving in collaborative environments, continuously learning, and delivering high-quality software solutions that drive business success.</h5>
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
